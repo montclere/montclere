@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=130&lines=Hey+there!+I'm+Vladislav+%F0%9F%91%BE;Junior+ML+%2F+NLP+Engineer" width="70%" align="left"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=130&lines=Hey+there!+I'm+Vladislav+%F0%9F%91%BE;Junior+NLP+Engineer" width="70%" align="left"/>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dvY2x1Mm1qYjIxMTBmZ2N0dWRocDZ1NHk3a2F4YmtiaHViMWV5NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lh6EKzQdQghw784jvq/giphy.gif" width="22%" align="right"/>
 
 <br><br><br><br>
