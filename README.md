@@ -5,11 +5,10 @@
 <br><br><br><br>
 
 <pre align="left">
-    🧠 ML Engineer • PyTorch • HuggingFace • LangChain
-    🤖 Building: RAG pipelines • text classification • LLM apps
-    📦 Stack: Python • FastAPI • PostgreSQL • Docker • Nginx
-    🌱 Learning: fine-tuning LLMs • vector DBs • MLOps
-    🎯 Open to: collaborations • internships • open source
+	•	ML Engineer focused on building and deploying machine learning systems<br>	
+    •	Designing end-to-end pipelines: data → training → deployment → monitoring<br>	
+    •	Interested in NLP, recommendation systems, and MLOps<br>	
+    •	Currently improving model performance and scalability
 </pre>
 
 <br>
@@ -40,11 +39,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=montclere&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=montclere&theme=buefy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=montclere&theme=tokyonight&hide_border=false)
+![](https://streak-stats.demolab.com/?user=montclere&theme=buefy&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=montclere&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=montclere&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
