@@ -1,56 +1,41 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=130&lines=Hey+there!+I'm+Vladislav+%F0%9F%91%BE;Junior+ML+Engineer" width="70%" align="left"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dvY2x1Mm1qYjIxMTBmZ2N0dWRocDZ1NHk3a2F4YmtiaHViMWV5NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lh6EKzQdQghw784jvq/giphy.gif" width="22%" align="right"/>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=34&duration=3500&pause=400&color=A78BFA&center=true&vCenter=true&width=800&height=110&lines=Hey+there!+I'm+Vladislav+%F0%9F%91%BE;ML+Engineer+%E2%80%94+NLP+%2F+LLM+%2F+RAG" alt="Vladislav — ML Engineer" /> </div> <table> <tr> <td width="72%" valign="top">
 
-<br><br><br><br>
+ML Engineer working on NLP and LLM-based systems.
 
-<pre align="left">
-	•	ML Engineer focused on building and deploying machine learning systems<br>	
-    •	Designing end-to-end pipelines: data → training → deployment → monitoring<br>	
-    •	Interested in NLP, recommendation systems, and MLOps<br>	
-    •	Currently improving model performance and scalability
-</pre>
+🔎 I build end-to-end RAG pipelines — ingestion, chunking, vector search, prompting, answer validation
+📄 Focused on information extraction from documents and grounding answers in sources
+🧪 Ex-Data Scientist @ Sber: validation of production ML models, test automation, data quality control
+🎓 MSc in Artificial Intelligence @ HSE University · BSc in Software Engineering
+🏆 Hackathons and NLP meetups — the fastest way I know to learn something new
+</td> <td width="28%" valign="top"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dvY2x1Mm1qYjIxMTBmZ2N0dWRocDZ1NHk3a2F4YmtiaHViMWV5NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lh6EKzQdQghw784jvq/giphy.gif" width="100%" alt="" /> </td> </tr> </table>
+🚀 Projects
+Project	What it does	Stack
+Finance_RAG	Q&A system over financial documents. Answers user questions with citations back to the source document. Two RAG pipelines implemented and compared.	Python · ChromaDB · Transformers · LLM API
+Hypothesis Factory
+<sub>Nornickel hackathon</sub>	Generates ranked, testable hypotheses in an IF → THEN → BECAUSE format from reports and scientific literature, with every claim grounded in a verbatim quote. Dual-track architecture: a deterministic core (parsing, loss profiling, ranking) plus an LLM track with a knowledge graph and enrichment from OpenAlex and web search.	Python · RAG · Knowledge graphs · OpenAlex API
+💻 Tech Stack
 
-<br>
+Languages
 
-</div>
+Show Image Show Image Show Image
 
----
+ML / NLP
 
-## 💻 Tech Stack
+Show Image Show Image Show Image Show Image Show Image Show Image
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+Data & Vector Stores
 
----
+Show Image Show Image Show Image Show Image Show Image Show Image
 
-## 📊 GitHub Stats
+Infrastructure
 
+Show Image Show Image Show Image Show Image
+
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.shion.dev/api?username=montclere&theme=buefy&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub stats" /> <br/> <img src="https://streak-stats.demolab.com/?user=montclere&theme=buefy&hide_border=false" alt="GitHub streak" /> <br/> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=montclere&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top languages" /> </div>
+📫 Contact
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=montclere&theme=buefy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-![](https://streak-stats.demolab.com/?user=montclere&theme=buefy&hide_border=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=montclere&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=montclere&icon=0&color=0)](https://visitcount.itsvg.in)
+Show Image Show Image
 
 </div>
