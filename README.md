@@ -73,10 +73,7 @@
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=montclere&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" />
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=montclere&bg_color=FFFFFF&color=6D28D9&line=8B5CF6&point=5B21B6&area=true&hide_border=true" alt="Contribution activity" />
-</picture>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dvY2x1Mm1qYjIxMTBmZ2N0dWRocDZ1NHk3a2F4YmtiaHViMWV5NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lh6EKzQdQghw784jvq/giphy.gif" width="220" alt="" />
 
 </div>
 
