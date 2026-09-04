@@ -9,7 +9,7 @@
 
 [![Email](https://img.shields.io/badge/Email-A78BFA?style=flat-square&logo=maildotru&logoColor=white)](mailto:avladislav200424@mail.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-8B5CF6?style=flat-square&logo=telegram&logoColor=white)](https://t.me/@VladIsLove_Arm)
-[![CV](https://img.shields.io/badge/CV-7C3AED?style=flat-square&logo=readdotcv&logoColor=white)](https://github.com/montclere/montclere/blob/main/cv.pdf)
+[![CV](https://img.shields.io/badge/CV-7C3AED?style=flat-square&logo=readdotcv&logoColor=white)](https://github.com/montclere/montclere/cv.pdf)
 ![Profile views](https://komarev.com/ghpvc/?username=montclere&style=flat-square&color=6D28D9&label=views)
 
 </div>
