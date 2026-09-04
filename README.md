@@ -92,7 +92,7 @@
 **Open to ML internships and pet projects in NLP and agents — feel free to reach out.**
 
 [![Email](https://img.shields.io/badge/avladislav200424@mail.ru-A78BFA?style=flat-square&logo=maildotru&logoColor=white)](mailto:avladislav200424@mail.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-8B5CF6?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![Telegram](https://img.shields.io/badge/Telegram-8B5CF6?style=flat-square&logo=telegram&logoColor=white)](https://t.me/@VladIsLove_Arm)
 
 </div>
 
