@@ -1,41 +1,102 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=34&duration=3500&pause=400&color=A78BFA&center=true&vCenter=true&width=800&height=110&lines=Hey+there!+I'm+Vladislav+%F0%9F%91%BE;ML+Engineer+%E2%80%94+NLP+%2F+LLM+%2F+RAG" alt="Vladislav — ML Engineer" /> </div> <table> <tr> <td width="72%" valign="top">
+<!-- ================= HEADER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1E1B4B,50:6D28D9,100:A78BFA&section=header" alt="" />
 
-ML Engineer working on NLP and LLM-based systems.
-
-🔎 I build end-to-end RAG pipelines — ingestion, chunking, vector search, prompting, answer validation
-📄 Focused on information extraction from documents and grounding answers in sources
-🧪 Ex-Data Scientist @ Sber: validation of production ML models, test automation, data quality control
-🎓 MSc in Artificial Intelligence @ HSE University · BSc in Software Engineering
-🏆 Hackathons and NLP meetups — the fastest way I know to learn something new
-</td> <td width="28%" valign="top"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dvY2x1Mm1qYjIxMTBmZ2N0dWRocDZ1NHk3a2F4YmtiaHViMWV5NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lh6EKzQdQghw784jvq/giphy.gif" width="100%" alt="" /> </td> </tr> </table>
-🚀 Projects
-Project	What it does	Stack
-Finance_RAG	Q&A system over financial documents. Answers user questions with citations back to the source document. Two RAG pipelines implemented and compared.	Python · ChromaDB · Transformers · LLM API
-Hypothesis Factory
-<sub>Nornickel hackathon</sub>	Generates ranked, testable hypotheses in an IF → THEN → BECAUSE format from reports and scientific literature, with every claim grounded in a verbatim quote. Dual-track architecture: a deterministic core (parsing, loss profiling, ranking) plus an LLM track with a knowledge graph and enrichment from OpenAlex and web search.	Python · RAG · Knowledge graphs · OpenAlex API
-💻 Tech Stack
-
-Languages
-
-Show Image Show Image Show Image
-
-ML / NLP
-
-Show Image Show Image Show Image Show Image Show Image Show Image
-
-Data & Vector Stores
-
-Show Image Show Image Show Image Show Image Show Image Show Image
-
-Infrastructure
-
-Show Image Show Image Show Image Show Image
-
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.shion.dev/api?username=montclere&theme=buefy&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub stats" /> <br/> <img src="https://streak-stats.demolab.com/?user=montclere&theme=buefy&hide_border=false" alt="GitHub streak" /> <br/> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=montclere&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top languages" /> </div>
-📫 Contact
 <div align="center">
 
-Show Image Show Image
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=38&duration=3500&pause=500&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=120&lines=Hey+there!+I'm+Vladislav+%F0%9F%91%BE;ML+Engineer+%E2%80%94+NLP+%C2%B7+LLM+%C2%B7+Agents" alt="Vladislav — ML Engineer" />
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-A78BFA?style=flat-square&logo=maildotru&logoColor=white)](mailto:avladislav200424@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-8B5CF6?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![CV](https://img.shields.io/badge/CV-7C3AED?style=flat-square&logo=readdotcv&logoColor=white)](https://github.com/montclere/montclere/blob/main/cv.pdf)
+![Profile views](https://komarev.com/ghpvc/?username=montclere&style=flat-square&color=6D28D9&label=views)
 
 </div>
+
+<!-- ================= ABOUT ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1E1B4B,50:6D28D9,100:A78BFA&section=header" alt="" />
+
+## 🧬 About me
+
+- 🤖 I design **agentic systems** — planning, tool calling, multi-agent orchestration
+- 🔎 I build and ship **RAG systems** end to end
+- 🧪 Experience: **Data Scientist @ Sber**
+- 🎓 MSc in **Artificial Intelligence**, HSE University
+- 💻 **School 21** — Data Science / ML
+- 🏆 I take part in hackathons, competitions and ML meetups
+
+> **Hypothesis Factory** · *Nornickel hackathon* — a RAG/LLM system that turns reports and scientific literature into ranked, testable hypotheses in an **IF → THEN → BECAUSE** format, with every claim grounded in a verbatim quote. Dual-track architecture: a deterministic core (parsing, loss profiling, ranking) alongside an LLM track built on a knowledge graph and enriched from OpenAlex and web search.
+
+<!-- ================= STACK ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1E1B4B,50:6D28D9,100:A78BFA&section=header" alt="" />
+
+## ⚙️ Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,docker,postgres,git,linux,cpp&theme=dark&perline=9" alt="Python, PyTorch, scikit-learn, FastAPI, Docker, PostgreSQL, Git, Linux, C++" />
+
+<br/><br/>
+
+![LLM Agents](https://img.shields.io/badge/LLM_Agents-A78BFA?style=flat-square&logoColor=white)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-9F7AEA?style=flat-square&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=flat-square&logoColor=white)
+![Embeddings and Vector Search](https://img.shields.io/badge/Embeddings_%26_Vector_Search-7C3AED?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6D28D9?style=flat-square&logoColor=white)
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-5B21B6?style=flat-square&logoColor=white)
+<br/>
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-A78BFA?style=flat-square&logo=huggingface&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-9F7AEA?style=flat-square&logo=huggingface&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-8B5CF6?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-7C3AED?style=flat-square&logo=meta&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-6D28D9?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-5B21B6?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
+
+<!-- ================= STATS ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1E1B4B,50:6D28D9,100:A78BFA&section=header" alt="" />
+
+## 📊 Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=montclere&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=montclere&show_icons=true&include_all_commits=true&hide_border=true&title_color=6D28D9&icon_color=6D28D9&text_color=24292E" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=montclere&layout=compact&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=montclere&layout=compact&include_all_commits=true&hide_border=true&title_color=6D28D9&text_color=24292E" alt="Top languages" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=montclere&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=montclere&bg_color=FFFFFF&color=6D28D9&line=8B5CF6&point=5B21B6&area=true&hide_border=true" alt="Contribution activity" />
+</picture>
+
+</div>
+
+<!-- ================= FOOTER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1E1B4B,50:6D28D9,100:A78BFA&section=header" alt="" />
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/montclere/montclere/output/github-snake-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/montclere/montclere/output/github-snake.svg" alt="Contribution snake" />
+</picture>
+
+<br/>
+
+**Open to ML internships and pet projects in NLP and agents — feel free to reach out.**
+
+[![Email](https://img.shields.io/badge/avladislav200424@mail.ru-A78BFA?style=flat-square&logo=maildotru&logoColor=white)](mailto:avladislav200424@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-8B5CF6?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:A78BFA,50:6D28D9,100:1E1B4B&section=footer&reversal=true" alt="" />
